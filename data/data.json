@@ -1,0 +1,31 @@
+{
+    "mobiles":[
+        {
+            "name": "nokia 7.2",
+            "image":"img/1.jpg",
+            "originalprice":16000,
+            "price":15000
+        },{
+            "name": "samsung A30",
+            "image":"img/2.jpg",
+            "originalprice":14000,
+            "price":13000
+        },{
+            "name": "micromax",
+            "image":"img/3.jpg",
+            "originalprice":10000,
+            "price":9000
+
+        },{
+            "name": "Apple SE",
+            "image":"img/4.jpg",
+            "originalprice":31000,
+            "price":29000
+        },{
+            "name": "celkon",
+            "image":"img/5.jpg",
+            "originalprice":6000,
+            "price":5400
+        }
+    ]
+}
